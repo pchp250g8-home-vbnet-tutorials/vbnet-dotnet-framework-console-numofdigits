@@ -1,0 +1,11 @@
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\bin\Debug\NumOfDigits.exe.config
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\bin\Debug\NumOfDigits.exe
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\bin\Debug\NumOfDigits.pdb
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\bin\Debug\NumOfDigits.xml
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.vbproj.AssemblyReference.cache
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.Resources.resources
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.vbproj.GenerateResource.cache
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.vbproj.CoreCompileInputs.cache
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.exe
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.xml
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.pdb
