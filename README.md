@@ -1,3 +1,5 @@
+NumOfDigits. VBNet Tutorials. DotNet FrameWork Platform. Console Application. Algorithms 
+
 A console application project written in the Visual Basic .Net programming language and implemented in the Microsoft Visual Studio integrated environment. The .Net FrameWork platform provides simple input/output. Determining the number of digits in a number entered from the keyboard.
 
 The program does the following:
